@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodqueen-webapp/static/css/main.9ee0d65d.css",
+    "main.js": "/foodqueen-webapp/static/js/main.8dbb4490.js",
+    "index.html": "/foodqueen-webapp/index.html",
+    "main.9ee0d65d.css.map": "/foodqueen-webapp/static/css/main.9ee0d65d.css.map",
+    "main.8dbb4490.js.map": "/foodqueen-webapp/static/js/main.8dbb4490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee0d65d.css",
+    "static/js/main.8dbb4490.js"
+  ]
+}
