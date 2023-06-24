@@ -13,7 +13,3 @@ This website was built using React and TailwindCSS for a small maggi business ow
 + **UPI payment system**: In-built UPI payment system that automatically opens the UPI app on the user's phone with the merchants' QR and total amount fed in.
 + **UPI amount updation**: A new UPI link is generated each time the user orders making sure that the amount is entered automatically.
 + **Production build**: This website is currently in use by the business and works bug-free.
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
