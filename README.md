@@ -14,3 +14,6 @@ This website was built using React and TailwindCSS for a small maggi business ow
 + **UPI payment system**: In-built UPI payment system that automatically opens the UPI app on the user's phone with the merchants' QR and total amount fed in.
 + **UPI amount updation**: A new UPI link is generated each time the user orders, ensuring that the amount is entered automatically.
 + **Production build**: This website is currently in use by the business and works bug-free.
+
+
+NOTE: The UPI feature is currently disabled due to obvious reasons because I don't want to leak my UPI ID xD You may clone it locally and add your UPI ID to test it.
